@@ -5,5 +5,5 @@ You've learned a lot about web development so far. I want you to take a moment t
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 ---
-I learned how to use tag to organize the web page content. Everything is quite easy and nothing is hard.
+I learned how to use tag to organize the web page content. The previous lessons and the quiz are very helpful for the final project. I used the technique from the previous lesson to finish this project.Everything is quite easy and nothing is hard.
 Your response goes here!
